@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daftar MLM</string>
+    <string name="app_name2">Tidur dapat 1milyar</string>
+    <string-array name="arAgama">
+        <item>Pilih Agama</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+</resources>
